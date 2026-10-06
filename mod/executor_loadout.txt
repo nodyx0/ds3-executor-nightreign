@@ -1,0 +1,60 @@
+EXECUTOR BUILD - RECOMMENDED LOADOUT
+====================================
+
+Character Name: Executor
+
+STATS (after character creation):
+- Vigor: 18
+- Attunement: 10
+- Endurance: 16
+- Strength: 12
+- Dexterity: 20
+- Intelligence: 8
+- Faith: 7
+- Luck: 12
+
+WEAPON (Right Hand):
+- Pontiff's Curved Sword (or similar fast curved sword)
+- Moveset: fast light attacks, quick recovery
+- Style: execution blade aesthetic
+
+SHIELD / LEFT HAND:
+- Small Leather Shield (or parry tool)
+- For quick repositioning and guard breaks
+
+Armor Set:
+- Head: Hollow Warden Helm (dark, minimal)
+- Chest: Assassin Garb (dark leather)
+- Hands: Assassin Gauntlets (dark, tight fit)
+- Legs: Assassin Leggings (dark, mobile)
+
+Visual Theme:
+- Dark ash / black base colors
+- Crimson accents where possible
+- Minimal bright colors
+- Sharp, aggressive silhouette
+- "Executioner" vibe
+
+Rings (early game suggestions):
+- Ring of Steel Protection (armor boost)
+- Chloranthy Ring (stamina regen)
+- Young Dragon Ring (dexterity boost)
+- Any remaining ring
+
+Starting Items:
+- Estus Flask (healing)
+- Firebomb (early damage)
+- Throwing knife (ranged option)
+
+Playstyle:
+- Fast melee pressure
+- Quick dodge repositioning
+- Guard break punish
+- Curved sword combos
+- Aggressive, mobile duelist
+
+Testing Area:
+- Start in Firelink Shrine (safe hub)
+- Test movement and attacks
+- Move to Undead Settlement for combat practice
+- Stay offline mode only

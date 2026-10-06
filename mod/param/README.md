@@ -2,10 +2,9 @@
 
 This folder holds stat and gameplay parameter override files.
 
-For v0.1, this is where you would place any custom character stat files.
-You can leave this empty and use the default game stats.
+For v0.1, this folder is EMPTY.
 
-If you want to customize the Executor stats:
+You will set the Executor stats manually in-game during character creation:
 - Vigor: 18
 - Attunement: 10
 - Endurance: 16
@@ -15,4 +14,4 @@ If you want to customize the Executor stats:
 - Faith: 7
 - Luck: 12
 
-These can be set manually in-game when you create the character.
+If you later want to automate stat assignment, param files would go here.

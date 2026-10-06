@@ -1,29 +1,25 @@
-DS3 EXECUTOR MOD - INSTALLATION INSTRUCTIONS
-==============================================
+DS3 EXECUTOR MOD - INSTALLATION
+===============================
 
-1. Copy this entire 'mod' folder to your DS3 install:
+1. Copy this mod folder to:
    C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\modengine2\mod\
 
-2. Make sure ModEngine2 is installed in your DS3 folder
+2. Make sure ModEngine2 is installed in:
+   C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\modengine2\
 
-3. Launch the game through ModEngine2
+3. Launch the game through ModEngine2 only (not Steam):
+   modengine2.exe
 
-4. Create a new character named "Executor"
-   - Stats: 20 Dexterity, 18 Vigor, 16 Endurance, 12 Strength, 10 Attunement, 8 Intelligence, 7 Faith, 12 Luck
-   - Weapon: Curved Sword or similar
-   - Armor: Dark leather / assassin-style gear
+4. Create a new character:
+   - Name: Executor
+   - Follow the stat and gear recommendations in executor_loadout.txt
 
 5. Play in OFFLINE MODE ONLY
 
-6. Test the character in a safe area (Firelink Shrine or similar)
-
-7. If the game launches without errors, the mod is working
+6. Test in a safe area (Firelink Shrine)
 
 Troubleshooting:
-- If the game crashes, check the ModEngine2 log file
-- Make sure all folder names are spelled correctly
-- Make sure you're running in OFFLINE mode
-- Try deleting the mod folder and re-extracting it
-
-For v0.1, this mod is a starter template.
-The character will use default DS3 animations and models with custom stats.
+- If the game crashes, check the ModEngine2 log
+- If the mod doesn't load, verify folder paths are correct
+- If performance is poor, verify you're using default DS3 assets
+- For further help, check the GitHub repo
