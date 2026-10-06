@@ -1,0 +1,49 @@
+{
+  "project": "ds3-executor-nightreign",
+  "host_game": {
+    "name": "Dark Souls III",
+    "engine": "FromSoftware custom engine",
+    "mod_loader": "ModEngine2",
+    "player_mode": "solo offline first",
+    "status": "concept"
+  },
+  "playable_character": {
+    "name": "Executor",
+    "origin": "Elden Ring: Nightreign",
+    "role": "vanguard / dexterity hybrid",
+    "class_label": "fast melee duelist",
+    "weapon_focus": [
+      "dual execution blades",
+      "shortsword / curved sword style",
+      "execution-style finisher"
+    ],
+    "theme": "precision, mobile pressure, guard break pressure",
+    "visual_style": "dark leather, ash armor, crimson trims, sigil accents",
+    "voice_pitch": "low, clipped, confident",
+    "stat_profile": {
+      "vigor": 18,
+      "attunement": 10,
+      "endurance": 16,
+      "strength": 12,
+      "dexterity": 20,
+      "intelligence": 8,
+      "faith": 7,
+      "luck": 12
+    },
+    "starting_loadout": [
+      "Executor's Ashen Blade",
+      "Hollow Ring of Precision",
+      "Nightreign Travel Garb"
+    ],
+    "availability": "playable character in DS3 host world",
+    "safe_for_melty": true,
+    "requires_host_game": true
+  },
+  "design_goals": [
+    "Keep the first build within a single player offline DS3 run",
+    "Use the Executor as a real DS3 playable character with a short, readable moveset",
+    "Use Nightreign inspiration without pretending this is a standalone game",
+    "Tight scope before adding co-op or more characters"
+  ],
+  "status": "design only; no packaged build yet"
+}

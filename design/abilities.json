@@ -1,0 +1,46 @@
+{
+  "project": "ds3-executor-nightreign",
+  "ability_set": [
+    {
+      "name": "Eclipse Step",
+      "type": "mobility / evade",
+      "source": "Nightreign movement feel",
+      "input": "quick dodge + forward thrust",
+      "effect": "brief invulnerability window with a rapid close-range reposition",
+      "cooldown": "short",
+      "damage": "light to medium",
+      "notes": "High value for entering and escaping pressure."
+    },
+    {
+      "name": "Nightfall Slash",
+      "type": "burst melee",
+      "source": "Nightreign-style execution pressure",
+      "input": "heavy attack chain",
+      "effect": "multi-hit slash that finishes with a downward cut and forward knockback",
+      "cooldown": "moderate",
+      "damage": "medium to heavy",
+      "notes": "Main pressure skill for melee windows."
+    },
+    {
+      "name": "Deadfall Seal",
+      "type": "guard break / stagger",
+      "source": "Executioner pressure mechanic",
+      "input": "guard break on enemy stance",
+      "effect": "briefly staggers and opens a window for a finishing blow",
+      "cooldown": "moderate",
+      "damage": "heavy when chained",
+      "notes": "Used to punish enemy poise and create a visual Nightreign feel."
+    },
+    {
+      "name": "Finale of the Executor",
+      "type": "finisher / weapon art",
+      "source": "Nightreign spectacle finisher",
+      "input": "full meter + heavy attack",
+      "effect": "fast aerial or lunge finisher with visual flare and a strong hitbox",
+      "cooldown": "long",
+      "damage": "very heavy",
+      "notes": "Single-use weapon art for boss windows or challenge rooms."
+    }
+  ],
+  "status": "first playable slice only; design not yet built into DS3 assets"
+}

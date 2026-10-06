@@ -1,0 +1,35 @@
+{
+  "project": "ds3-executor-nightreign",
+  "host_game": "Dark Souls III",
+  "loader": "ModEngine2",
+  "required_game": true,
+  "required_game_version": "DS3 standard PC install",
+  "player_mode": {
+    "first_build": "solo offline",
+    "deferred": "co-op / party play",
+    "status": "not yet implemented"
+  },
+  "integration_targets": [
+    "character model slot",
+    "animation set hook",
+    "weapon art and VFX hook",
+    "player stat/loadout injection",
+    "DS3 arena or encounter trigger"
+  ],
+  "systems": {
+    "host": "DARK SOULS III",
+    "mod_route": "ModEngine2 mod directory",
+    "safe_launch": "offline mode only",
+    "anti_cheat": "no online bypass",
+    "game_requirements": [
+      "player owns Dark Souls III",
+      "ModEngine2 installed and launched for the game",
+      "mod folder loaded from the DS3 install"
+    ],
+    "co_op": {
+      "planned": false,
+      "reason": "defer until solo version is tested and stable"
+    }
+  },
+  "status": "design only; no runtime or packaged mod created yet"
+}
