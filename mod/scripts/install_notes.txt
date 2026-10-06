@@ -1,0 +1,7 @@
+This mod folder is a placeholder for a real DS3 mod build.
+
+Install notes:
+- Use ModEngine2
+- Keep the folder structure aligned to the DS3 game files
+- Only add actual runtime files when the build is tested
+- Do not package the source concept files unless for documentation
