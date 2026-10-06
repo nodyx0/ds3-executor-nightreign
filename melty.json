@@ -1,0 +1,16 @@
+{
+  "name": "ds3-executor-nightreign",
+  "slug": "ds3-executor-nightreign",
+  "status": "draft",
+  "host_games": [
+    {
+      "name": "Dark Souls III",
+      "required": true,
+      "folder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DARK SOULS III",
+      "loader": "ModEngine2"
+    }
+  ],
+  "player_mode": "solo-offline-first",
+  "publish_ready": false,
+  "notes": "This is a draft metadata file. Actual gameplay files and Melty submission remain pending a tested build."
+}

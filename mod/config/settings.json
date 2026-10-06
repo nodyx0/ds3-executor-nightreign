@@ -1,0 +1,8 @@
+{
+  "project": "ds3-executor-nightreign",
+  "host_game": "Dark Souls III",
+  "loader": "ModEngine2",
+  "player_mode": "offline-first",
+  "status": "prototype",
+  "notes": "Actual DS3 game asset files are not yet inserted. This folder is a placeholder for the real mod build."
+}

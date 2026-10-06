@@ -1,7 +1,8 @@
-This mod folder is a placeholder for a real DS3 mod build.
+This mod folder is currently a scaffold for a future real DS3 mod build.
 
-Install notes:
-- Use ModEngine2
-- Keep the folder structure aligned to the DS3 game files
-- Only add actual runtime files when the build is tested
-- Do not package the source concept files unless for documentation
+Requirements:
+- Dark Souls III installed
+- ModEngine2 installed
+- Offline play only
+- Keep paths aligned to the DS3 game directory structure
+- Only package real game files once tested

@@ -1,0 +1,6 @@
+# Ignore generated archives and editor temp files
+release/*.zip
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db

@@ -1,11 +1,6 @@
-# mod/README
+# DS3 mod directory
 
-This directory is reserved for the actual DS3 mod files once the design is validated.
+This folder is reserved for the actual runtime files used by Dark Souls III.
 
-The first build will be intentionally small:
-- one playable Executor character
-- DS3 host game only
-- offline solo mode
-- ModEngine2 route
-
-Do not add runtime files here until the checklist is clean.
+The content here must match the game’s directory structure and must be tested in-game before release.
+Do not add design JSON or concept files here.
